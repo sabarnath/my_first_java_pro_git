@@ -1,4 +1,4 @@
-package com.javacodegeeks.java.util.comparator;
+package my_first_java_pro_git;
 
 import java.util.Comparator;
 
